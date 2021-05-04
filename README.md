@@ -28,6 +28,8 @@ _P5.js Commenter_ contains two main features: inline commenting and overall comm
 The overall commenting feature, by contrast, affords users a means to critique an entire p5.js sketch without specifically targeting a line of code.  Rather, a peer user provides critique in a larger-scale text entry area.  When the original creator of the p5.js sketch visits his or her work, he or she can see all overall comments given by peers.  This functionality is similar to that found in Padlet, an educational software used for commenting on user-uploaded multimedia (Padlet, n.d.). 
 <br>
 ![Overall Commenting Screenshot](https://github.com/dmawer13/p5.js-Commenter/blob/main/Overall.png?raw=true)
+![Mandala Screenshot](https://github.com/dmawer13/p5.js-Commenter/blob/main/Mandala.png?raw=true)  
+
 <caption>Overall Commenting Functionality</caption>
 <br>
 <h2>Findings</h2>
