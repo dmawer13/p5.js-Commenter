@@ -19,7 +19,7 @@ I offer a software add-on for the open-source creative coding platform _p5.js we
 <br>
 
 ![Inline Commenting Screenshot](https://github.com/dmawer13/p5.js-Commenter/blob/main/Inline.png?raw=true)
-<caption>Inline Commenting Screenshot</caption>
+<caption>Inline Commenting Screenshot</caption><br>
 Alone, p5.js is an open-source Javascript library for creative coding.  A user can write code that produces multimedia content in an internet browser.  The p5.js web editor provides a browser-based creative coding environment for any user with internet access and a browser.
 <br>
 For this current project, the _p5.js Commenter_ is proposed as an add-on to the p5.js web editor.  This add-on serves to afford users a means to critique p5.js sketches and provide an instrument for understanding STEAM critique processes to inform future research. 
