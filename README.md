@@ -19,7 +19,7 @@ I offer a software add-on for the open-source creative coding platform _p5.js we
 <br>
 
 ![Inline Commenting Screenshot](https://github.com/dmawer13/p5.js-Commenter/blob/main/Inline.png?raw=true)
-<caption>Inline Commenting Screenshot</caption><br>
+<caption>Inline Commenting Feature</caption><br><br>
 Alone, p5.js is an open-source Javascript library for creative coding.  A user can write code that produces multimedia content in an internet browser.  The p5.js web editor provides a browser-based creative coding environment for any user with internet access and a browser.
 <br>
 For this current project, the _p5.js Commenter_ is proposed as an add-on to the p5.js web editor.  This add-on serves to afford users a means to critique p5.js sketches and provide an instrument for understanding STEAM critique processes to inform future research. 
@@ -30,6 +30,7 @@ The overall commenting feature, by contrast, affords users a means to critique a
 <br>
 
 ![Overall Commenting Screenshot](https://github.com/dmawer13/p5.js-Commenter/blob/main/Overall.png)
+<caption>Overall Commenting Feature</caption>
 <br>
 <h2>Findings</h2>
   
@@ -37,7 +38,8 @@ P5.js Commenter was iteratively designed over the course of a single semester of
 <br>
 The p5.js Commenter prototype used during these feedback sessions was bound in an example STEAM project case.  The project featured a mandala whose visual characteristics were informed by real-time weather data of a given user-inputted city, and this data was programmatically scraped from an online weather database.  The mandala’s formal elements would change according to regularly-updating weather data, as shown in the screenshot below. If a user selected a city that was cold and windy, for example, the mandala would exhibit a cool color palette with shades of blue and purple, and shapes radiating from the mandala’s center would become longer to represent high wind speeds.
 <br>
-![Mandala Screenshot](https://github.com/dmawer13/p5.js-Commenter/blob/main/Mandala.png?raw=true)  
+![Mandala Screenshot](https://github.com/dmawer13/p5.js-Commenter/blob/main/Mandala.png?raw=true)
+<caption>Weather Mandala Case Project</caption>
 <br>
 The choice to offer two options for commenting (overall vs. inline) was perhaps the largest design decision that informed this software add-on. Maintaining a distinction between overall and inline commenting functionality was warranted by academic peer and instructor feedback.  During these feedback sessions, it was conjectured that users would offer technical critiques using the inline commenting feature and artistic critiques using the overall commenting feature.  In a pilot user experience test that tasked users with critiquing the weather mandala sketch, users gravitated towards the inline commenting feature for technical comments.  The comments users entered into the inline commenting system contained suggestions for how to improve the highlighted code.  
 <br>
