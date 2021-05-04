@@ -17,6 +17,7 @@ I offer a software add-on for the open-source creative coding platform _p5.js we
 
 <h2>Design Overview</h2>
 <br>
+
 ![Inline Commenting Screenshot](https://github.com/dmawer13/p5.js-Commenter/blob/main/Inline.png?raw=true)
 <caption>Inline Commenting Screenshot</caption>
 Alone, p5.js is an open-source Javascript library for creative coding.  A user can write code that produces multimedia content in an internet browser.  The p5.js web editor provides a browser-based creative coding environment for any user with internet access and a browser.
@@ -27,7 +28,8 @@ _P5.js Commenter_ contains two main features: inline commenting and overall comm
 <br>
 The overall commenting feature, by contrast, affords users a means to critique an entire p5.js sketch without specifically targeting a line of code.  Rather, a peer user provides critique in a larger-scale text entry area.  When the original creator of the p5.js sketch visits his or her work, he or she can see all overall comments given by peers.  This functionality is similar to that found in Padlet, an educational software used for commenting on user-uploaded multimedia (Padlet, n.d.). 
 <br>
-![Overall Commenting Screenshot](https://github.com/dmawer13/p5.js-Commenter/blob/main/Overall.png?raw=true)
+
+![Overall Commenting Screenshot](https://github.com/dmawer13/p5.js-Commenter/blob/main/Overall.png)
 <br>
 <h2>Findings</h2>
   
