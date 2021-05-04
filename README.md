@@ -1,7 +1,11 @@
 # p5.js-Commenter
 
-## Welcome! 👋👋🏿👋🏽👋🏻👋🏾👋🏼
+## Welcome!
 
-I'm trying out some headings and things to start this Readme file. 
+This Readme serves as a project documentation for _p5.js Commenter_, a proposed add-on for the _p5.js web editor_.  This project was developed to fulfull a course requirement for my PhD program in Learning Sciences.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+![Inline Commenting Screenshot](https://github.com/dmawer13/p5.js-Commenter/blob/main/Inline.png?raw=true)
+
+
+![Overall Commenting Screenshot](https://github.com/dmawer13/p5.js-Commenter/blob/main/Overall.png?raw=true)
